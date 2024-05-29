@@ -1,0 +1,2 @@
+# SQL-RockbusterVideoRental
+Viewers will see an analysis of the movies generating the most and least revenue, and the average rental duration for all videos. The presentation will map out where Rockbuster customers are located globally and highlight regions with the highest lifetime value customers. It will also compare sales figures across different geographic regions. These insights will help guide Rockbuster's 2020 strategy to boost revenue and enhance customer engagement.
